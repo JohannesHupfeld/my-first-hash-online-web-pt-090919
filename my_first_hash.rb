@@ -37,5 +37,5 @@ def adding
 
 
   # return the shipping_manifest hash below
-return ["oil paintings"]
+return [3]
 end
